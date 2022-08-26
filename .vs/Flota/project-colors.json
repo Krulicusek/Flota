@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23ee49a9-cfbb-4f2a-9b97-498e557e48b2": {
+      "ProjectGuid": "23ee49a9-cfbb-4f2a-9b97-498e557e48b2",
+      "DisplayName": "Flota.Client",
+      "ColorIndex": 0
+    },
+    "a4a47093-dbe4-4646-b7a3-e31c035c4df5": {
+      "ProjectGuid": "a4a47093-dbe4-4646-b7a3-e31c035c4df5",
+      "DisplayName": "Flota.Server",
+      "ColorIndex": 1
+    },
+    "c55f6478-b3bd-41e2-800b-7e98a8fb8275": {
+      "ProjectGuid": "c55f6478-b3bd-41e2-800b-7e98a8fb8275",
+      "DisplayName": "Flota.Server",
+      "ColorIndex": 2
+    },
+    "8da63358-511f-47d6-93fe-bd2b9b5c15b8": {
+      "ProjectGuid": "8da63358-511f-47d6-93fe-bd2b9b5c15b8",
+      "DisplayName": "Flota.Client",
+      "ColorIndex": 3
+    },
+    "bd70c646-8098-4c1e-83f9-7b8f0d2bbc33": {
+      "ProjectGuid": "bd70c646-8098-4c1e-83f9-7b8f0d2bbc33",
+      "DisplayName": "Flota.Shared",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

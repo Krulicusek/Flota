@@ -1,0 +1,12 @@
+E:\repos\Flota\Flota\Shared\bin\Debug\net6.0\Flota.Shared.deps.json
+E:\repos\Flota\Flota\Shared\bin\Debug\net6.0\Flota.Shared.dll
+E:\repos\Flota\Flota\Shared\bin\Debug\net6.0\Flota.Shared.pdb
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.AssemblyInfoInputs.cache
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.AssemblyInfo.cs
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.csproj.CoreCompileInputs.cache
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.dll
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\ref\Flota.Shared.dll
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.pdb
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\Flota.Shared.csproj.AssemblyReference.cache
+E:\repos\Flota\Flota\Shared\obj\Debug\net6.0\refint\Flota.Shared.dll
