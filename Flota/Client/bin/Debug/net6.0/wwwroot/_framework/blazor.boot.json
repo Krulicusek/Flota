@@ -220,14 +220,14 @@
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
       "Flota.Shared.dll": "sha256-0xvMjLlKjcBkLU9kW3YYmJcdtmXy5Cd6\/rdWIkRFKxU=",
-      "Flota.Client.dll": "sha256-VouVSTwSncAkBz0wXwnMQpCkn\/GQcPTCM+syOV5Qr3A="
+      "Flota.Client.dll": "sha256-zlTktur8H43Eai\/ghKknBQRSRUOtxrQ0qLAgOC1X6+U="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Flota.Shared.pdb": "sha256-1EqIWfLMH7BHeT1qGyTmIANas1LX2pwT7T5KhT007+k=",
-      "Flota.Client.pdb": "sha256-YaRKK1qbIziJjrJ3XMaq8R1Jg6FYW5fZDgvy0H3qUwY="
+      "Flota.Client.pdb": "sha256-T1iA0RrXH3tr2W7iyCmyyp0DCAJfsChB94Qxyl+UNrs="
     },
     "runtime": {
       "dotnet.6.0.8.vqn8zorxya.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",

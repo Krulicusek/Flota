@@ -957,11 +957,11 @@
       "url": "_framework\/Flota.Shared.pdb"
     },
     {
-      "hash": "sha256-kgZgJ2ZXjM4dWjLIdvvYTt2H9qnv6b\/8OByNiuANi\/M=",
+      "hash": "sha256-kpzNbVca7asMnMF9XUbbpWHRNfcNscXkeCAmOYg1e24=",
       "url": "_framework\/Flota.Client.dll"
     },
     {
-      "hash": "sha256-dZ5lwPuDhjQb3rpsfoxFzo8AGKYHLAXrOt1MgAMHeEk=",
+      "hash": "sha256-ERuUfJpkqAJG4POdzyV8truSwRQyMNRaBXO34HNpvp0=",
       "url": "_framework\/Flota.Client.pdb"
     },
     {
@@ -969,9 +969,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-GVpwgfbFVEf7Jqna\/6W8DZjCqZY8VN92bV5oYbWObXE=",
+      "hash": "sha256-TFHosJf5GYTW0nwVq8gxMVOa\/fPH2+T4vGIASclDyd4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "f2g\/00Se"
+  "version": "6GTHVZyu"
 };

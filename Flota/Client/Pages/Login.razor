@@ -12,26 +12,31 @@
 @inject NavigationManager Navigation
 
 @page "/login"
-
+@layout NoMenuLayout
 <PageTitle>Login</PageTitle>
 
-<h1>Login</h1>
-<br>
 
-<EditForm Model=@usrPwd OnValidSubmit=@ValidFormSubmitted
-          OnInvalidSubmit=@InvalidFormSubmitted>
-    <DataAnnotationsValidator />
-    <ValidationSummary />
-    <label>Username</label><br>
-    <InputText type="text" placeholder="Username" @bind-Value="@usrPwd.Username" />
-    <br><br>
-    <label>Password</label><br>
-    <InputText type="password" placeholder="Password" @bind-Value="@usrPwd.Pwd" />
-    <br><br>
-    <button class="btn btn-primary">
-        Submit
-    </button>
-</EditForm>
+
+<div class="container">
+    <div class="d-flex flex-column min-vh-100 justify-content-center align-items-center"
+        <EditForm Model=@usrPwd OnValidSubmit=@ValidFormSubmitted
+                  OnInvalidSubmit=@InvalidFormSubmitted>
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <h1>Login</h1>
+            <br>
+            <label>Username</label><br>
+            <InputText type="text" placeholder="Username" @bind-Value="@usrPwd.Username" />
+            <br><br>
+            <label>Password</label><br>
+            <InputText type="password" placeholder="Password" @bind-Value="@usrPwd.Pwd" />
+            <br><br>
+            <button class="btn btn-primary">
+                Submit
+            </button>
+        </EditForm>
+    </div>
+</div>
 
 @code
 {
@@ -56,7 +61,7 @@
         var authState = await AuthenticationStateTask;
         var user = authState.User;
         if (user.Identity.IsAuthenticated)
-        {   
+        {
             Navigation.NavigateTo("/");
         }
 
